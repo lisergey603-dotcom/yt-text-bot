@@ -1,0 +1,5 @@
+aiogram==3.31.0
+youtube-transcript-api==1.2.5
+yt-dlp[default]
+openai==3.48.0
+python-dotenv
